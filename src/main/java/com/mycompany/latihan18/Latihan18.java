@@ -7,6 +7,9 @@ package com.mycompany.latihan18;
 /**
  *
  * @author user
+ Nama: Farchatul Hudayah
+ Nim: 22205071
+ Prodi: Teknik Informatika
  */
 public class Latihan18 {
 
