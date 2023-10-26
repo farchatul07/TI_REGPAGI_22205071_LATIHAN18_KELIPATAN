@@ -7,9 +7,11 @@ package com.mycompany.latihan18;
 /**
  *
  * @author user
- Nama: Farchatul Hudayah
- Nim: 22205071
- Prodi: Teknik Informatika
+ Nama              : Farchatul Hudayah
+ Nim               : 22205071
+ Prodi             : Teknik Informatika
+ Kelas             : PBO1
+ Deskripsi Program : Program ini berisi program yang Menampilkan Kelipatan
  */
 public class Latihan18 {
 
